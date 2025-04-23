@@ -1,0 +1,30 @@
+_repo: Tiuri-ja-Pajari-b-Romaani-vuodelta-1314_75716
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eronen, Simo
+    birthdate: 1881
+    deathdate: 1936
+    gutenberg_agent_id: '57528'
+    url: http://www.gutenberg.org/2009/agents/57528
+    wikipedia: https://fi.wikipedia.org/wiki/Simo_Eronen
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75716'
+language: fi
+pgterms:marc905: 20240920004759eronen
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PH'
+- GITenberg
+title: 'Tiuri ja Pajari : $b Romaani vuodelta 1314'
+url: http://www.gutenberg.org/ebooks/75716
