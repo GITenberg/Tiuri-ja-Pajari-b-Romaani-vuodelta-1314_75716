@@ -1,5 +1,8 @@
 _repo: Tiuri-ja-Pajari-b-Romaani-vuodelta-1314_75716
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eronen, Simo
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57528
     wikipedia: https://fi.wikipedia.org/wiki/Simo_Eronen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75716#Tiuri-ja-Pajari-b-Romaani-vuodelta-1314
 gutenberg_issued: '2025-03-25'
 gutenberg_type: Text
 identifiers:
